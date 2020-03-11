@@ -1,2 +1,3 @@
 # hello-world
-first repository 
+ 
+Hello! I'm Naima! I am a college student based in NYC!
